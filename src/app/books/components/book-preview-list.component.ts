@@ -29,7 +29,7 @@ import { Book } from '../state/book.model';
     `
   ]
 })
-//Millores
+// Millores
 export class BookPreviewListComponent {
   @Input()
   books: Book[];
