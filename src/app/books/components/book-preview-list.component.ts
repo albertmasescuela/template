@@ -29,6 +29,7 @@ import { Book } from '../state/book.model';
     `
   ]
 })
+//Millores
 export class BookPreviewListComponent {
   @Input()
   books: Book[];
